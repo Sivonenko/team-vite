@@ -1,0 +1,12 @@
+.hero {
+  padding: 100px 0;
+  background-color: aqua;
+}
+
+.hero-title {
+  font-size: 40px;
+  color: blueviolet;
+}
+.hero-btn {
+  background-color: #fff;
+}
